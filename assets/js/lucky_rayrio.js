@@ -14,7 +14,7 @@ const luckyRayRio = () => {
       element.classList.add(toAddClass);
     }
   }
-  document.cookie = 'is-site-visit=true';
+  document.cookie = 'is-site-visit=true; Secure; Samesite=None;';
 };
 
 luckyRayRio();
