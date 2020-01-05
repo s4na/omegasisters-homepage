@@ -1,20 +1,20 @@
-## 本ホームページはなんですか？？
+## What is OmegaSisters/Homepage?
 
-### 経緯
+### Background
 
 「第１回おめシスのホームページをプルリクだけで更新していったらどうなるの？」という、おめがシスターズの企画です。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">おめシスのホームページをGithubのプルリクで更新していったらどうなるのか、こっそり検証中です。そのうち動画にします！<a href="https://t.co/rErhv32NNR">https://t.co/rErhv32NNR</a></p>&mdash; おめがレイ@バーチャル双子YouTuber (@omesis_ray) <a href="https://twitter.com/omesis_ray/status/1209057136992387072?ref_src=twsrc%5Etfw">December 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## 参加するにはどうすればいいですか？
+## How to contribute?
 
-ユーザーが考えることで無限の可能性がありますが、大きくわけて 3 つの方法があります。
+There are endless possibilities for users to think about, but there are three main ways.
 
-- issue を立てる・コメントする
-- PR を投げる・レビューする
-- Twitter で共有 👍
+- Issue / Comment
+- Throw and review PR
+- Share on Twitter 👍
 
-## 開発に参加する
+## Getting Started
 
 yarn, npm の場合それぞれ書いています
 
